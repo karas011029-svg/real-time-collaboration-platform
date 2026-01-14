@@ -551,7 +551,10 @@ export default function Features() {
   }, [isAutoPlaying]);
 
   return (
-    <section className="relative py-24 md:py-32" id="features">
+    <section
+      className="relative scroll-mt-24 py-24 md:py-32"
+      id="features"
+    >
       <div className="mx-auto max-w-6xl px-6">
         {/* Header */}
         <div className="mb-16 text-center">

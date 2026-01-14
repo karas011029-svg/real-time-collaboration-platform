@@ -101,7 +101,7 @@ export default function HeroSection() {
               className="mx-auto mt-6 max-w-2xl text-balance text-lg text-muted-foreground md:hidden"
             >
               Revo brings your team together in real time. Chat, share files,
-              and collaborate seamless.
+              and collaborate seamlessly.
             </TextEffect>
 
             {/* Large Screen Version */}

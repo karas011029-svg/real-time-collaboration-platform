@@ -2,11 +2,9 @@ import HeroSection from "@/components/landing/hero";
 
 const HomePage = () => {
   return (
-    <>
-      <div>
-        <HeroSection />
-      </div>
-    </>
+    <div className="min-h-dvh bg-background">
+      <HeroSection />
+    </div>
   );
 };
 

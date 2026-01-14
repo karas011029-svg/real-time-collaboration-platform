@@ -15,7 +15,7 @@ const WorkspaceLayout = async ({ children }: { children: ReactNode }) => {
     <>
       <div className="flex w-full h-dvh overflow-hidden">
         {/* Workspace Sidebar - Hidden on mobile, visible on lg screens */}
-        <div className="hidden lg:flex h-full w-14 xl:w-16 flex-col items-center bg-sidebar py-2 xl:py-3 px-1.5 xl:px-2 border-r border-border shrink-0">
+        <div className="hidden lg:flex h-full w-14 xl:w-16 flex-col items-center bg-sidebar py-2 xl:py-3 px-1.5 xl:px-2 border-r border-sidebar-border shrink-0 shadow-[inset_-1px_0_0_0_var(--sidebar-border)]">
           <HydrateClient client={queryClient}>
             <WorkspaceList />
           </HydrateClient>

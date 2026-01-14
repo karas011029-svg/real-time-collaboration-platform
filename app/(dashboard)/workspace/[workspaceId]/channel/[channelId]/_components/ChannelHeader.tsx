@@ -52,7 +52,7 @@ const ChannelHeader = ({ channelName }: ChannelHeaderProps) => {
   }, [openSearch, channelId]);
 
   return (
-    <div className="flex items-center justify-between h-12 sm:h-14 px-2 sm:px-3 md:px-4 border-b shrink-0 bg-background">
+    <div className="flex items-center justify-between h-12 sm:h-14 px-2 sm:px-3 md:px-4 border-b border-border/80 shrink-0 bg-background/95 supports-[backdrop-filter]:backdrop-blur-sm">
       {/* Left Section */}
       <div className="flex items-center gap-2 sm:gap-3 min-w-0 flex-1">
         {/* Sidebar Toggle Button */}

@@ -17,7 +17,6 @@ A modern real-time collaboration platform for teams. Chat instantly, share files
 [![Prisma](https://img.shields.io/badge/Prisma-7.0-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
-[Live Demo](https://revo-liard.vercel.app) · [Report Bug](https://github.com/Devsethi3/revo/issues) · [Request Feature](https://github.com/Devsethi3/revo/issues)
 
 </div>
 
@@ -270,7 +269,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Devsethi3/revo.git
+git clone https://github.com/karas011029-svg/real-time-collaboration-platform.git
 cd revo
 ```
 
@@ -511,10 +510,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Dev Prasad Sethi**
+**Karas**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Devsethi3-181717?style=for-the-badge&logo=github)](https://github.com/Devsethi3)
-[![Twitter](https://img.shields.io/badge/Twitter-@imsethidev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imsethidev)
 
 </div>
 
@@ -534,7 +531,7 @@ Made with ❤️ and ☕
 ```
 MIT License
 
-Copyright (c) 2024 Dev Prasad Sethi
+Copyright (c) 2024 Karas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

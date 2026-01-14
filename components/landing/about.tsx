@@ -285,7 +285,7 @@ const PresencePreview = () => (
 
 export default function AboutSection() {
   return (
-    <section className="relative py-24 md:py-32" id="about">
+    <section className="relative scroll-mt-24 py-24 md:py-32" id="about">
       <div className="relative mx-auto max-w-6xl px-6">
         {/* Header */}
         <div className="mb-12 text-center">
